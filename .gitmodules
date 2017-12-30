@@ -1,0 +1,6 @@
+[submodule "AIND-Isolation"]
+	path = AIND-Isolation
+	url = https://github.com/aponamarev/AIND-Isolation.git
+[submodule "AIND-Sudoku"]
+	path = AIND-Sudoku
+	url = https://github.com/aponamarev/AIND-Sudoku.git
