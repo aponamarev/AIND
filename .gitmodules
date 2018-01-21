@@ -1,9 +1,6 @@
 [submodule "AIND-Isolation"]
 	path = AIND-Isolation
 	url = https://github.com/aponamarev/AIND-Isolation.git
-[submodule "AIND-Recognizer"]
-	path = AIND-Recognizer
-	url = https://github.com/udacity/AIND-Recognizer.git
 [submodule "AIND-Sudoku"]
 	path = AIND-Sudoku
 	url = https://github.com/aponamarev/AIND-Sudoku.git
